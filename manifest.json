@@ -1,0 +1,9 @@
+{
+  "id": "sequential-note-nav",
+  "name": "Sequential Note Navigator",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Jump to the previous or next note by creation or modification time.",
+  "author": "Bunetj",
+  "isDesktopOnly": false
+}

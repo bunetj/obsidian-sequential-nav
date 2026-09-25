@@ -1,0 +1,14 @@
+{
+  "name": "obsidian-sequential-nav",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "obsidian": "latest",
+    "typescript": "^5.0.0",
+    "esbuild": "^0.19.0",
+    "@types/node": "^20.0.0"
+  }
+}
